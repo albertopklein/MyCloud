@@ -1,0 +1,4 @@
+ifconfig -a
+
+ifconfig | grep "inet " 
+
